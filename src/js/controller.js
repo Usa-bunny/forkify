@@ -6,6 +6,7 @@ import resultsView from "./views/resultsView.js";
 import paginationView from "./views/paginationView.js";
 import bookmarksView from "./views/bookmarksView.js";
 import addRecipeView from "./views/addRecipeView.js";
+import icons from "url:../../img/icons.svg";
 
 import "core-js/stable"; // polyfilling everything else
 import "regenerator-runtime/runtime"; // polyfilling async/await
